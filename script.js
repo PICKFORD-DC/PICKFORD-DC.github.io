@@ -9,7 +9,7 @@ var audio = document.getElementById("myAudio");
   }
   function wa() {
     alert('Kamu Akan Di Arahkan Ke Wa Guweh')
-    window.open('https://api.whatsapp.com/send?phone=6283806211925&text=Halo Agus Gemooy ><','_blank')
+    window.open('https://api.whatsapp.com/send?phone=6283806211924&text=Halo Agus Gemooy ><','_blank')
   }
   function ig() {
     alert('Kamu akan di Arahkan Ke Instagram Guweh')
